@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsV4.cs">
+    <Files>
+      <File FileName="Assets\Script\UI\SelectDiffUI\SelectDiffUI.cs" Line="6" Column="30" />
+      <File FileName="Assets\admobdemo.cs" Line="10" Column="3" />
+      <File FileName="Assets\Plugins\AdmobAPI\Admob.cs" Line="281" Column="15" />
+      <File FileName="Assets\Script\Logic\Launcher.cs" Line="9" Column="32" />
+      <File FileName="Assets\PopUpGameFinishUI.cs" Line="13" Column="18" />
+      <File FileName="Assets\GameUI.cs" Line="105" Column="3" />
+      <File FileName="Assets\Block.cs" Line="74" Column="46" />
+      <File FileName="Assets\Script\UI\BaseUI\UIManager.cs" Line="50" Column="35" />
+      <File FileName="Assets\Plugins\GoogleAnalyticsV4\GoogleAnalyticsV4.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\GameProjects\Sudoku\Assets\Block.cs" line="69" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
